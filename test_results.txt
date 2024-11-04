@@ -1,0 +1,744 @@
+Model models/best_model.pth - Test Average Loss: 5.6672
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: <UNK> cardiophrenic degenerative effusions effusion effusions slightly partly <UNK> partly partly <UNK> from slightly cardiophrenic base mm degenerative chronic cardiophrenic
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.0000
+==================================================
+Model models/model_epoch_1.pth - Test Average Loss: 5.6672
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: abnormalities loss changes slightly abnormalities thorax abnormalities vascularity contour slightly airspace contour airspace abnormalities contour airspace contour airspace slightly <UNK>
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 0.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 4.6347
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: normal normal normal normal normal normal are normal normal normal normal normal normal are normal normal normal normal normal normal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.0000
+==================================================
+Model models/model_epoch_1.pth - Test Average Loss: 4.6347
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: normal normal normal are normal are are normal normal are normal normal normal normal normal normal normal normal are normal
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 0.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 3.7797
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: no no no no no no are no normal no no is no no no no is no no no
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 0.0000
+==================================================
+Model models/model_epoch_2.pth - Test Average Loss: 3.7797
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the no no is no normal no no no no no the no are no no no no no no
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 2.6717
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the lungs the is within normal or no size and lungs the lungs are lungs normal without the of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.0000
+==================================================
+Model models/model_epoch_3.pth - Test Average Loss: 2.6717
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the no no and no size are within normal limits is is no the lungs is is no are are
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 0.2416
+==================================================
+Model models/best_model.pth - Test Average Loss: 3.0131
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the clear clear is within normal limits clear size and clear the lungs are clear inflated clear clear clear focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.2076
+==================================================
+Model models/model_epoch_4.pth - Test Average Loss: 3.0131
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the clear clear and mediastinum size are within normal limits there is no clear clear there is no focal and
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 0.5932
+==================================================
+Model models/best_model.pth - Test Average Loss: 2.0295
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the no no and no size are within normal limits is is no the is is is no focal are
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 0.2757
+==================================================
+Model models/model_epoch_5.pth - Test Average Loss: 2.0295
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the no no and no size are within normal limits is is no the is is is no focal are
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 0.2757
+==================================================
+Model models/best_model.pth - Test Average Loss: 1.7227
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary lungs there is no focal are
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 0.8032
+==================================================
+Model models/model_epoch_6.pth - Test Average Loss: 1.7227
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary lungs there is no focal are
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 0.8032
+==================================================
+Model models/best_model.pth - Test Average Loss: 1.3380
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary there there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 0.8579
+==================================================
+Model models/model_epoch_7.pth - Test Average Loss: 1.3380
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits clear size and clear the lungs are the the without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.5069
+==================================================
+Model models/best_model.pth - Test Average Loss: 1.1049
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits no size and contour the lungs are effusion the without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.6515
+==================================================
+Model models/model_epoch_8.pth - Test Average Loss: 1.1049
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits no size and contour the lungs are effusion the without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.6515
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.9130
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits no size and contour the lungs are pulmonary the without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.6515
+==================================================
+Model models/model_epoch_9.pth - Test Average Loss: 0.9130
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits no size and contour the lungs are pulmonary the without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.6515
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.7450
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary limits there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 0.8579
+==================================================
+Model models/model_epoch_10.pth - Test Average Loss: 0.7450
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits clear size and contour the lungs are pulmonary inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.7077
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.5993
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are the inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.8579
+==================================================
+Model models/model_epoch_11.pth - Test Average Loss: 0.5993
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are the inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.8579
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.4885
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/model_epoch_12.pth - Test Average Loss: 0.4885
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.4225
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/model_epoch_13.pth - Test Average Loss: 0.4225
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are the inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.8579
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.3637
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are the inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.8579
+==================================================
+Model models/model_epoch_14.pth - Test Average Loss: 0.3637
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are the inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.8579
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.3057
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are the inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.8579
+==================================================
+Model models/model_epoch_15.pth - Test Average Loss: 0.3057
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are the inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.8579
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.2641
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are the inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.8579
+==================================================
+Model models/model_epoch_16.pth - Test Average Loss: 0.2641
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.2326
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are the inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.8579
+==================================================
+Model models/model_epoch_17.pth - Test Average Loss: 0.2326
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are the inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 0.8579
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.2024
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/model_epoch_18.pth - Test Average Loss: 0.2024
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.1786
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/model_epoch_19.pth - Test Average Loss: 0.1786
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.1595
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/model_epoch_20.pth - Test Average Loss: 0.1595
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.2040
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.1486
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.1287
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.1194
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.1080
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0979
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0917
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0837
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0759
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0699
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/model_epoch_10.pth - Test Average Loss: 0.0699
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0640
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0582
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0528
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0487
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0453
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0423
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0394
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0369
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0348
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0329
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/model_epoch_20.pth - Test Average Loss: 0.0329
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0313
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0299
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0286
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0274
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0261
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0250
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0241
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0233
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0217
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/model_epoch_30.pth - Test Average Loss: 0.0217
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0210
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0197
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0192
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0178
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0174
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0166
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/model_epoch_40.pth - Test Average Loss: 0.0166
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0159
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0156
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0152
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0149
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0146
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0143
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0134
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/model_epoch_50.pth - Test Average Loss: 0.0134
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0132
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0126
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0124
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0122
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0117
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0115
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0111
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/model_epoch_60.pth - Test Average Loss: 0.0111
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0109
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0105
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0103
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0102
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0100
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0097
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0095
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/model_epoch_70.pth - Test Average Loss: 0.0094
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0089
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0088
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0087
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0085
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0080
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/model_epoch_80.pth - Test Average Loss: 0.0080
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0079
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0078
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0076
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0075
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0074
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0073
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/model_epoch_90.pth - Test Average Loss: 0.0070
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0068
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0066
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0065
+Selected Image: F1 CXR10_IM-0002-1001
+Predicted Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+Reference Sentence: the cardiomediastinal silhouette is within normal limits for size and contour the lungs are normally inflated without evidence of focal
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0063
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/best_model.pth - Test Average Loss: 0.0062
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
+Model models/model_epoch_100.pth - Test Average Loss: 0.0062
+Selected Image: F1 CXR1_1_IM-0001-3001
+Predicted Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+Reference Sentence: the cardiac silhouette and mediastinum size are within normal limits there is no pulmonary edema there is no focal consolidation
+BLEU Score: 1.0000
+==================================================
